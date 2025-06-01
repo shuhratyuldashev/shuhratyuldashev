@@ -4,7 +4,6 @@
 
 I am working on full-stack web development, building and supporting web applications. For the frontend, I use React or Next.js. On the backend, I work with Node.js along with Express or NestJS. For databases, I utilize MongoDB with Mongoose, or PostgreSQL with Sequelize or Prisma.
 
----
 
 ### ✨ What I do:
 
@@ -12,7 +11,7 @@ I am working on full-stack web development, building and supporting web applicat
 
 - Backend: I craft robust APIs and scale applications for optimal performance.
 
----
+
 
 ### 🌐 You can find me:
 
@@ -24,8 +23,6 @@ I am working on full-stack web development, building and supporting web applicat
 
 
 
-
----
 
 ### 🛠️ Languages & Tools
 
