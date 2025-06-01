@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
 <img src="https://i.pinimg.com/736x/16/00/fd/1600fd3d9bca436801ed06f2185d88cb.jpg" alt="Banner" height="200px" style="object-fit: cover; border-radius: 20px; " width="100%" />
-</p>
+</p>-->
 
 # Hi, I'm Shuhrat Yuldashev 👋
 
