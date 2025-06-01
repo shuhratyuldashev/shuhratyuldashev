@@ -4,23 +4,27 @@
 
 # Hi, I'm Shuhrat Yuldashev 👋
 
-Welcome to my GitHub profile!  
-I am passionate about software development, open source, and continuous learning.
+**`Web Developer | Full-Stack (Frontend/Backend)`**
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on exciting projects in the field of software engineering.
-- 🌱 I’m always learning new technologies and best practices.
-- 💬 Ask me about programming, open source, or anything tech-related!
-- 📫 How to reach me: [your-email@example.com]  
-- 🌐 Visit my portfolio: [your-portfolio-link.com]
+I am working on full-stack web development, building and supporting web applications. For the frontend, I use React or Next.js. On the backend, I work with Node.js along with Express or NestJS. For databases, I utilize MongoDB with Mongoose, or PostgreSQL with Sequelize or Prisma.
 
 ## 🛠️ Languages & Tools
 
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p>
+  <img width="30px" height="30px" style="paddong: 10px" src="https://img.icons8.com/color/200/git.png" alt=""GIT/>
+  <img width="30px" height="30px" style="paddong: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt=""HTML/>
+  <img width="30px" height="30px" style="paddong: 10px" src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt=""CSS/>
+  <img width="30px" height="30px" style="paddong: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/250px-JavaScript-logo.png" alt=""JS/>
+  <img width="30px" height="30px" style="paddong: 10px" src="https://cdn-icons-png.flaticon.com/256/5968/5968381.png" alt=""TS/>
+  <img width="30px" height="30px" style="paddong: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt=""React/>
+  <img width="30px" height="30px" style="paddong: 10px" src="https://static-00.iconduck.com/assets.00/nextjs-icon-1024x1024-5et230l7.png" alt=""Nextjs/>
+  <img width="30px" height="30px" style="paddong: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJs"/>
+  <img width="30px" height="30px" style="paddong: 10px" src="https://img.icons8.com/color/512/express-js.png" alt=""Express/>
+  <img width="30px" height="30px" style="paddong: 10px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" alt=""NestJS/>
+  <img width="30px" height="30px" style="paddong: 10px" src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" alt=""PSql/>
+  <img width="30px" height="30px" style="paddong: 10px" src="https://w7.pngwing.com/pngs/115/190/png-transparent-mongodb-original-logo-icon-thumbnail.png" alt=""MongoDB/>
+
+</p>
 <!-- Add or remove tools as appropriate -->
 
 ## 📈 GitHub Stats
