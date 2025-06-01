@@ -8,7 +8,7 @@
 
 I am working on full-stack web development, building and supporting web applications. For the frontend, I use React or Next.js. On the backend, I work with Node.js along with Express or NestJS. For databases, I utilize MongoDB with Mongoose, or PostgreSQL with Sequelize or Prisma.
 
-# What I do:
+### What I do:
 
 - Frontend & Landing Pages: I bring your website ideas to life, building engaging frontends and landing pages.
 
@@ -27,13 +27,12 @@ I am working on full-stack web development, building and supporting web applicat
   </a>
   <a href="https://tashkent.hh.uz/resume/905814e4ff0d0da5350039ed1f465634386164">
     <img alt="Head Hunter" title="Follow me on HeadHunter" 
-         src="https://img.shields.io/github/followers/abbos-khamidov?color=236ad3&labelColor=1155ba&style=for-the-badge&label=Follow&logo=github&logoColor=white"/>
+         src="https://img.shields.io/badge/Follow%20me%20on%20HeadHunter-E4002B?labelColor=E4002B&color=E4002B&style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 
----
 
-## 🛠️ Languages & Tools
+### 🛠️ Languages & Tools
 
 <p>
   <img width="45px" height="45px" style="paddong: 10px" src="https://img.icons8.com/color/200/git.png" alt=""GIT/>
