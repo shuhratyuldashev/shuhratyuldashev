@@ -39,7 +39,11 @@ I am working on full-stack web development, building and supporting web applicat
   <img width="40px" height="40px" style="paddong: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/250px-JavaScript-logo.png" alt=""JS/>
   <img width="40px" height="40px" style="paddong: 20px" src="https://cdn-icons-png.flaticon.com/256/5968/5968381.png" alt=""TS/>
   <img width="40px" height="40px" style="paddong: 20px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt=""React/>
+  <img width="40px" height="40px" style="paddong: 20px" src="https://avatars.githubusercontent.com/u/73801201?s=280&v=4" alt=""Redux toolkit/>
+  <img width="40px" height="40px" style="paddong: 20px" src="https://miro.medium.com/v2/resize:fit:1200/1*elhu-42TzQEdsFjKDbQhhA.png" alt=""Tanstack query/>
   <img width="40px" height="40px" style="paddong: 20px" src="https://static-00.iconduck.com/assets.00/nextjs-icon-1024x1024-5et230l7.png" alt=""Nextjs/>
+  <img width="40px" height="40px" style="paddong: 20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQysUHnXbD4Ub7q1nanqKmvxj3aGYllAb6iGg&s" alt=""Shadcn UI/>
+  <img width="40px" height="40px" style="paddong: 20px" src="https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png" alt=""MUI/>
   <img width="40px" height="40px" style="paddong: 20px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJs"/>
   <img width="40px" height="40px" style="paddong: 20px" src="https://img.icons8.com/color/512/express-js.png" alt=""Express/>
   <img width="40px" height="40px" style="paddong: 20px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" alt=""NestJS/>
