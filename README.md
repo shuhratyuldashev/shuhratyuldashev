@@ -16,6 +16,7 @@ I am working on full-stack web development, building and supporting web applicat
 - Backend: I craft robust APIs and scale applications for optimal performance.
 
 
+### You can find me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shuhrat-yuldoshev-2b1198302/">
