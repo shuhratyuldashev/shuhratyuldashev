@@ -8,13 +8,14 @@
 
 I am working on full-stack web development, building and supporting web applications. For the frontend, I use React or Next.js. On the backend, I work with Node.js along with Express or NestJS. For databases, I utilize MongoDB with Mongoose, or PostgreSQL with Sequelize or Prisma.
 
-### What I do:
 
+
+### What I do:
 - Frontend & Landing Pages: I bring your website ideas to life, building engaging frontends and landing pages.
 
 - Backend: I craft robust APIs and scale applications for optimal performance.
 
-#
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shuhrat-yuldoshev-2b1198302/">
@@ -32,6 +33,9 @@ I am working on full-stack web development, building and supporting web applicat
 </p>
 
 
+#
+
+
 ### 🛠️ Languages & Tools
 
 <p>
@@ -47,8 +51,8 @@ I am working on full-stack web development, building and supporting web applicat
   <img width="45px" height="45px" style="paddong: 10px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" alt=""NestJS/>
   <img width="45px" height="45px" style="paddong: 10px" src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" alt=""PSql/>
   <img width="45px" height="45px" style="paddong: 10px" src="https://static-00.iconduck.com/assets.00/database-mongo-db-icon-980x1024-1q3t2p6x.png" alt=""MongoDB/>
-
 </p>
+
 <!-- Add or remove tools as appropriate -->
 
 ---
