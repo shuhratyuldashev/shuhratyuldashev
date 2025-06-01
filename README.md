@@ -8,6 +8,31 @@
 
 I am working on full-stack web development, building and supporting web applications. For the frontend, I use React or Next.js. On the backend, I work with Node.js along with Express or NestJS. For databases, I utilize MongoDB with Mongoose, or PostgreSQL with Sequelize or Prisma.
 
+# What I do:
+
+- Frontend & Landing Pages: I bring your website ideas to life, building engaging frontends and landing pages.
+
+- Backend: I craft robust APIs and scale applications for optimal performance.
+
+#
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shuhrat-yuldoshev-2b1198302/">
+    <img alt="LinkedIn" title="Follow me on LinkedIn" 
+         src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/ysh2009uz">
+    <img alt="Telegram" title="Find me on Telegram" 
+         src="https://img.shields.io/badge/Find%20me%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://tashkent.hh.uz/resume/905814e4ff0d0da5350039ed1f465634386164">
+    <img alt="Head Hunter" title="Follow me on HeadHunter" 
+         src="https://img.shields.io/github/followers/abbos-khamidov?color=236ad3&labelColor=1155ba&style=for-the-badge&label=Follow&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🛠️ Languages & Tools
 
 <p>
@@ -26,18 +51,6 @@ I am working on full-stack web development, building and supporting web applicat
 
 </p>
 <!-- Add or remove tools as appropriate -->
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuhratyuldashev&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Personal Blog](https://your-blog-link.com)
 
 ---
 
