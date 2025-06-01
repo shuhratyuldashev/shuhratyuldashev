@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/39/85/dc/3985dc85a9744c92a1c8727c11914494.jpg" alt="Banner" height="200px" style="object-fit: cover" width="100%" />
+<img src="https://i.pinimg.com/736x/16/00/fd/1600fd3d9bca436801ed06f2185d88cb.jpg" alt="Banner" height="200px" style="object-fit: cover; border-radius: 20px; " width="100%" />
 </p>
 
 # Hi, I'm Shuhrat Yuldashev 👋
