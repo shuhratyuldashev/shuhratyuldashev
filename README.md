@@ -16,21 +16,17 @@ I am working on full-stack web development, building and supporting web applicat
 ### 🌐 You can find me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abbos-khamidov-8a469a212/">
+  <a href="https://www.linkedin.com/in/shuhrat-yuldoshev-2b1198302/">
     <img alt="LinkedIn" title="Follow me on LinkedIn" 
          src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://t.me/adamsmidov">
+  <a href="https://t.me/ysh2009uz">
     <img alt="Telegram" title="Find me on Telegram" 
          src="https://img.shields.io/badge/Find%20me%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://github.com/abbos-khamidov?tab=followers">
-    <img alt="GitHub Followers" title="Follow me on GitHub" 
-         src="https://img.shields.io/github/followers/abbos-khamidov?color=236ad3&labelColor=1155ba&style=for-the-badge&label=Follow&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/abbos-khamidov?tab=repositories&sort=stargazers">
-    <img alt="GitHub Stars" title="Total stars on GitHub" 
-         src="https://img.shields.io/github/stars/abbos-khamidov?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  <a href="https://tashkent.hh.uz/resume/905814e4ff0d0da5350039ed1f465634386164">
+    <img alt="Headhunter Followers" title="Follow me on Headhunter" 
+         src="https://img.shields.io/badge/Follow%20me%20on%20HeadHunter-E4002B?labelColor=E4002B&color=E4002B&style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 
